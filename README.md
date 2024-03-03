@@ -18,13 +18,13 @@ Selected resources relating to Laurent Pizzotti, local illustrator and graphic d
 ### Output for the project
 Metadata Application Profile that defines a contextualised ontology to be used for future projects with a wider scope.
 
-## GitHub pages
+## GitHub page
 
-*still to be defined*
+https://alexandra-dp.github.io/LODproject/
 
 ## Timeframe
 
-**Start**: February 2024
+**Start**: March 2024
 **End**: June 2024
 
 
