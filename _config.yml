@@ -1,3 +1,4 @@
-title: LOD project
 name: alexandra_dp
 markdown: kramdown
+baseurl: "/LODproject"
+url: "localhost:4000/LODproject/"
